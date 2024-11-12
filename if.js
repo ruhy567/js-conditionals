@@ -23,6 +23,7 @@ if(weight < 20){
 else{
     console.log('I will rent a rickshaw')
 }
+
 var weight = 10;
 if(weight < 20){
     console.log('I will carry it by myself')
